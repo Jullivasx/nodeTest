@@ -1,11 +1,1 @@
-m = new Map()
-
-console.dir(m)
-
-m[0] = 7
-
-for (i of m) {
-    console.log(i)
-}
-
-console.dir(m)
+const m = [0, 3, 8, 7, 9, 2, 6, 1]
